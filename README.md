@@ -1,155 +1,250 @@
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--              GQ | FUTURISTIC AI PROFILE                 -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!--
+  GUERSON QUISPE | FUTURISTIC AI PROFILE
+  GitHub: https://github.com/gersonqm
+-->
 
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:003B8E,70:007BFF,100:00E5FF&height=220&section=header&text=GUERSON%20QUISPE&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20CODE%20%7C%20INNOVATION&descSize=13&descAlignY=60&animation=fadeIn"
-    width="100%"
-    alt="Futuristic blue technology header"
-  />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,25:001B55,60:005DFF,100:00E5FF&height=220&section=header&text=GUERSON%20QUISPE&fontSize=46&fontColor=FFFFFF&fontAlignY=38&desc=ARTIFICIAL%20INTELLIGENCE%20%7C%20DATA%20SCIENCE%20%7C%20INNOVATION&descSize=12&descAlignY=60&animation=fadeIn" width="100%" alt="Futuristic AI header"/>
 
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=Exploring+Artificial+Intelligence;Building+Intelligent+Solutions;Python+%7C+Data+Science+%7C+Software;Turning+Ideas+Into+Reality"
-    alt="Animated introduction"
-  />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=750&lines=%3E+INITIALIZING+AI+SYSTEMS...;%3E+BUILDING+INTELLIGENT+SOLUTIONS;%3E+DATA+%7C+CODE+%7C+INNOVATION;%3E+WELCOME+TO+MY+DIGITAL+UNIVERSE" alt="Animated AI introduction"/>
 
-  <br/>
+<br/>
 
-  <img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-007BFF?style=for-the-badge&labelColor=020617" alt="Learning and building"/>
-  <img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-00E5FF?style=for-the-badge&labelColor=020617" alt="Artificial intelligence"/>
+<img src="https://img.shields.io/badge/FOCUS-ARTIFICIAL%20INTELLIGENCE-005DFF?style=for-the-badge&logo=probot&logoColor=white" alt="AI focus"/>
+<img src="https://img.shields.io/badge/DOMAIN-DATA%20SCIENCE-007BFF?style=for-the-badge&logo=databricks&logoColor=white" alt="Data science"/>
+<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-00BFFF?style=for-the-badge&logo=github&logoColor=white" alt="Always learning"/>
 
-  <br/><br/>
+<br/><br/>
 
-  <a href="https://github.com/gersonqm">
-    <img src="https://img.shields.io/badge/GitHub-gersonqm-0A84FF?style=flat-square&logo=github&logoColor=white" alt="GitHub profile"/>
-  </a>
-  <img src="https://img.shields.io/badge/BASED%20IN-PUNO%2C%20PERU-00BFFF?style=flat-square&logo=googlemaps&logoColor=white" alt="Puno Peru"/>
+<a href="https://github.com/gersonqm">
+<img src="https://img.shields.io/badge/GitHub-gersonqm-020617?style=flat-square&logo=github&logoColor=00E5FF" alt="GitHub"/>
+</a>
+<img src="https://img.shields.io/badge/LOCATION-PUNO%2C%20PERU-020617?style=flat-square&logo=googlemaps&logoColor=00E5FF" alt="Location"/>
 
 </div>
 
 ---
 
-## `> WHO_AM_I.exe`
+<div align="center">
 
-<img align="right" width="150" src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/Developer.gif" alt="Developer animation"/>
+# `◈ SYSTEM PROFILE`
 
-Hello, world! I'm **Guerson Quispe**, a developer in training passionate about technology, programming, statistics and artificial intelligence.
+*Technology • Intelligence • Creativity*
 
-I enjoy exploring data, developing software and transforming ideas into practical solutions.
+</div>
 
-- `01` — Exploring Artificial Intelligence and Machine Learning.
-- `02` — Working with data, statistics and visualization.
-- `03` — Developing applications with Python.
-- `04` — Learning, experimenting and building new projects.
+## `01 // ABOUT_ME`
 
-<br clear="right"/>
+Hello, world! 👋 I'm **Guerson Quispe**, a developer in training passionate about programming, statistics, data science and artificial intelligence.
 
----
+I enjoy exploring new technologies, developing software and transforming data into useful insights and practical solutions.
 
-## `> TECH_STACK`
+```python
+class GuersonQuispe:
+    def __init__(self):
+        self.username = "gersonqm"
+        self.interests = [
+            "Artificial Intelligence",
+            "Data Science",
+            "Statistics",
+            "Software Development",
+            "Computer Vision",
+            "Internet of Things"
+        ]
+        self.mindset = "Learn, build, improve"
+
+    def mission(self):
+        return "Turning ideas into intelligent solutions."
+
+me = GuersonQuispe()
+print(me.mission())
+```
 
 <div align="center">
 
-### PROGRAMMING LANGUAGES
+<img src="https://img.shields.io/badge/MINDSET-CURIOSITY-005DFF?style=flat-square" alt="Curiosity"/>
+<img src="https://img.shields.io/badge/APPROACH-LEARN%20BY%20BUILDING-007BFF?style=flat-square" alt="Learn by building"/>
+<img src="https://img.shields.io/badge/GOAL-TECHNOLOGICAL%20INNOVATION-00BFFF?style=flat-square" alt="Innovation"/>
+
+</div>
+
+---
+
+## `02 // TECHNOLOGY_MATRIX`
+
+<div align="center">
+
+### `> PROGRAMMING LANGUAGES`
 
 <img src="https://skillicons.dev/icons?i=python,r,js,html,css&theme=dark" alt="Programming languages"/>
 
-### TOOLS & TECHNOLOGIES
+### `> DATA & DATABASES`
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,mysql,opencv&theme=dark" alt="Development tools"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" alt="Databases"/>
+
+### `> DEVELOPMENT TOOLS`
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,docker&theme=dark" alt="Development tools"/>
+
+### `> AI & COMPUTER VISION`
+
+<img src="https://skillicons.dev/icons?i=opencv,pytorch&theme=dark" alt="AI tools"/>
 
 </div>
 
+> **TECH NOTE:** Las tecnologías mostradas representan herramientas de interés y trabajo. Los iconos disponibles dependen del servicio externo.
+
 ---
 
-## `> CURRENT_MISSION`
+## `03 // ACTIVE_MISSIONS`
 
 <table>
-  <tr>
-    <td width="50%" valign="top">
+<tr>
+<td width="50%" valign="top">
 
 ### 🤖 Artificial Intelligence
 
-Exploring intelligent systems, computer vision and machine learning.
+Exploring intelligent systems, machine learning and AI-powered applications.
 
-    </td>
-    <td width="50%" valign="top">
+`STATUS: EXPLORING`
+
+</td>
+<td width="50%" valign="top">
 
 ### 📊 Data Science
 
-Applying statistics, programming and data analysis to discover insights.
+Using statistics, programming and visualization to analyze data and discover patterns.
 
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+`STATUS: LEARNING`
 
-### 💻 Software Development
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-Building practical applications and learning modern development workflows.
+### 👁️ Computer Vision
 
-    </td>
-    <td width="50%" valign="top">
+Exploring image processing, facial analysis and computer vision with Python.
 
-### 🌐 Open Source
+`STATUS: DEVELOPING`
 
-Organizing code, documenting projects and learning to collaborate with GitHub.
+</td>
+<td width="50%" valign="top">
 
-    </td>
-  </tr>
+### ☁️ IoT & Cloud
+
+Working with connected devices, MQTT messaging, cloud data and dashboards.
+
+`STATUS: BUILDING`
+
+</td>
+</tr>
 </table>
 
 ---
 
-## `> FEATURED_PROJECTS`
+## `04 // FEATURED_PROJECTS`
 
 <div align="center">
 
 <a href="https://github.com/gersonqm?tab=repositories">
-  <img src="https://img.shields.io/badge/EXPLORE-MY%20REPOSITORIES-007BFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"/>
+<img src="https://img.shields.io/badge/ACCESS-ALL%20REPOSITORIES-005DFF?style=for-the-badge&logo=github&logoColor=white" alt="Explore repositories"/>
 </a>
 
 </div>
 
-Here you will find my programming experiments, academic projects, data analysis and software development work.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-> More projects coming soon. Every repository is another step forward.
+### ☁️ IoT Cloud Monitor
+
+Monitoring connected-device data using cloud services and dashboards.
+
+**Technologies:** Python · MQTT · Node-RED · InfluxDB · Grafana
+
+</td>
+<td width="50%" valign="top">
+
+### 👁️ Emotion Recognition
+
+An exploration of computer vision and facial-expression classification.
+
+**Technologies:** Python · OpenCV · Machine Learning
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Statistical Analysis
+
+Academic projects exploring statistical models, data analysis and visualization.
+
+**Technologies:** R · Python · Statistics
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 AI Assistant
+
+Exploring ideas for an intelligent assistant with a conversational interface.
+
+**Technologies:** Python · AI · Software Development
+
+</td>
+</tr>
+</table>
+
+*These are project areas I'm exploring. Visit my repositories to see the code and current development status.*
 
 ---
 
-## `> GITHUB_ANALYTICS`
+## `05 // GITHUB_ANALYTICS`
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=gersonqm&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=007BFF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gersonqm&show_icons=true&hide_border=true&bg_color=020617&title_color=00E5FF&icon_color=007BFF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonqm&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=C9D1D9" alt="Most used programming languages"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gersonqm&layout=compact&hide_border=true&bg_color=020617&title_color=00E5FF&text_color=C9D1D9" alt="Most used languages"/>
 
-  <br/>
+<br/><br/>
 
-  <img width="90%" src="https://streak-stats.demolab.com?user=gersonqm&theme=transparent&hide_border=true&background=020617&ring=007BFF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak"/>
+<img width="90%" src="https://streak-stats.demolab.com?user=gersonqm&theme=transparent&hide_border=true&background=020617&ring=007BFF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&dates=8B949E" alt="Contribution streak"/>
 
 </div>
 
 ---
 
-## `> CONNECT_WITH_ME`
+## `06 // CURRENT_OBJECTIVES`
+
+- [ ] Deepen my knowledge of artificial intelligence and machine learning.
+- [ ] Build useful applications with Python.
+- [ ] Improve my skills in data science and statistical analysis.
+- [ ] Develop and document practical projects.
+- [ ] Contribute to open-source projects.
+- [ ] Keep learning and sharing knowledge.
+
+---
+
+## `07 // CONNECT`
 
 <div align="center">
 
 <a href="https://github.com/gersonqm">
-  <img src="https://img.shields.io/badge/GitHub-FOLLOW%20MY%20JOURNEY-0A84FF?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-FOLLOW%20MY%20JOURNEY-005DFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 <br/><br/>
 
-**Ideas become projects. Projects become innovation.**
+**Have an idea? Let's turn it into a project.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:007BFF,100:020617&height=100&section=footer" width="100%" alt="Blue futuristic footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:005DFF,100:020617&height=120&section=footer&animation=fadeIn" width="100%" alt="Futuristic blue footer"/>
 
 <sub>Designed with curiosity, code and a futuristic mindset.</sub>
+
+<sub>GUERSON QUISPE · gersonqm · Puno, Perú</sub>
 
 </div>
